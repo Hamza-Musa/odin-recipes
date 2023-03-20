@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+}
+
+
+a:hover{
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+iframe {
+    width: 100px;
+    height: 100px;
+    border: 4px black solid;
+    
+
+}
+
+button {
+    z-index: 5;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 100px;
+}
