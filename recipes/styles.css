@@ -1,11 +1,11 @@
 
 h1 {
-    text-align: center;
+    text-align: left;
 }
 
 
 a:hover{
-    color: red;
+    color: pink;
 }
 
 a:visited {
